@@ -8,7 +8,7 @@ x = 2
     end
 while x < integer
           if (integer % x) == 0
-             return false
+             answer = false
         end
     x += 1
   end
